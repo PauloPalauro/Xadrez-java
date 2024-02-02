@@ -1,11 +1,9 @@
 package application;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.InputMismatchException;
 import java.util.List;
 import java.util.Scanner;
-import java.util.stream.Collector;
 
 import chess.ChessMatch;
 import chess.ChessPiece;
